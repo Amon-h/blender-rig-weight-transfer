@@ -16,13 +16,15 @@ This turns a repetitive manual conversion process into a one-click workflow.
 
 The character uses vertex groups from the original character rig, with different naming conventions and, in some body areas, multiple groups where GTA V uses a single corresponding group.
 
-![Before Vertex Group Conversion](images/before-conversion.png)
+![Before Vertex Group Conversion]<img width="1103" height="687" alt="pic1" src="https://github.com/user-attachments/assets/4f6a0e0e-edf6-41de-83db-7c4fbb3812ac" />
+
 
 ### After Conversion
 
 The tool automatically renames the relevant vertex groups and combines groups where necessary to match the GTA V rig structure.
 
-![After Vertex Group Conversion](images/after-conversion.png)
+![After Vertex Group Conversion]<img width="426" height="590" alt="pic2" src="https://github.com/user-attachments/assets/5c075cae-da09-4716-8dac-4496135aa612" />
+
 
 ## Workflow
 
